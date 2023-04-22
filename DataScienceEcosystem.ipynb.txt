@@ -1,0 +1,198 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "1073605a-c903-4dc8-a38c-38c4c7ebe958",
+   "metadata": {},
+   "source": [
+    "Data Science Tools and Ecosystem"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b97b25ef-969b-4f9a-a2c1-bec62149baee",
+   "metadata": {},
+   "source": [
+    "In this Notbook, Data Science Tools and Ecosystem are summerised."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "7a3672ae-639d-4a6a-92f9-136ab9963e7a",
+   "metadata": {},
+   "source": [
+    "Some of the commonly used libraries used by Data Scientists include:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "ef961710-1bcb-4703-9f59-9a772b3eb067",
+   "metadata": {},
+   "source": [
+    "Ordered list"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "96e8448a-c23b-403f-9919-233b6de29dc2",
+   "metadata": {},
+   "source": [
+    "TensorFlow, Numpy, Pytorch,SciPy and Scikit-learn are included."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "4c9e9fde-b207-480b-afa0-681f1000562a",
+   "metadata": {},
+   "source": [
+    "Table"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "bcdaa0c0-aca7-42e7-aa08-205f4a7175fe",
+   "metadata": {},
+   "source": [
+    "\n",
+    "|Data Science Tools|\n",
+    "|---|\n",
+    "|TensorFlow|\n",
+    "|NumPy|\n",
+    "|Pytorch|"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "bc349446-6652-4294-8e5c-3039bef95ce8",
+   "metadata": {},
+   "source": [
+    "Below are a few examples of evaluating arthimetic expressions in python."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "91977b99-9de0-44da-abb9-26a34f57ef10",
+   "metadata": {},
+   "source": [
+    "This is a simple arthimetic expression to multiply then add integers"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "id": "9660a0e7-9497-4511-a703-41918bd541d0",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "17"
+      ]
+     },
+     "execution_count": 14,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "(3*4)+5"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a46f32d2-7412-4817-8f90-e5a88aded3dc",
+   "metadata": {},
+   "source": [
+    "This will convert 200 minutes to hours deviding by 60"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 18,
+   "id": "9a62b0c8-6f8c-49df-bc53-eccd2bf2108f",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "3.3333333333333335"
+      ]
+     },
+     "execution_count": 18,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "200/60 "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "f42588dd-97ed-4a89-9939-ad36c3971da3",
+   "metadata": {},
+   "source": [
+    "objectives"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "5dc2b5fa-e952-4b30-8ad1-8d53deb1f03c",
+   "metadata": {},
+   "source": [
+    "|List of popular languages in Data Science|\n",
+    "|---|\n",
+    "|TensorFlow|\n",
+    "|Numpy|\n",
+    "|pytorch|\n",
+    "|SciPy and|\n",
+    "|Scikitlearn are included|"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "4faae371-a360-4bd8-ad1a-5a699939c6fb",
+   "metadata": {},
+   "source": [
+    "Author:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "30f5b487-0919-4618-a9a6-4d549893a62b",
+   "metadata": {},
+   "source": [
+    "Dires Geremew"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "31102d00-9376-49c1-a6b4-72b0d2e20236",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python",
+   "language": "python",
+   "name": "conda-env-python-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
